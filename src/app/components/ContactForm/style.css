@@ -1,0 +1,4 @@
+.Input:focus {
+  border-color: greenyellow !important;
+  box-shadow: 0 0 0 1px greenyellow !important;
+}

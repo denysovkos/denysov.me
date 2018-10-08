@@ -1,0 +1,12 @@
+{
+  "apps" : [{
+    "name"        : "KD-WEB-SITE",
+    "script"      : "./build/server.js",
+    "watch"       : true,
+    "env": {
+      "NODE_ENV": "production",
+      "PORT": 8080,
+      "HOST": "149.56.100.131"
+    }
+  }]
+}
