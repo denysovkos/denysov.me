@@ -1,8 +1,13 @@
 const mockedData = {
   workXP: [
     {
+      companyName: 'BillBeez',
+      period: 'may 2017 - now',
+      position: 'Full stack software engineer',
+    },
+    {
       companyName: 'ThomasCook',
-      period: 'october 2017 - now',
+      period: 'october 2017 - may 2017',
       position: 'Full stack software engineer',
     },
     {
